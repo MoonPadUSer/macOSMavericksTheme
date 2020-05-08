@@ -10,11 +10,9 @@ A Theme for macOS Mojave/Catalina to make it look like macOS Mavericks
 5. Download LiteIcon: https://freemacsoft.net/liteicon/
 
 # Installation
-Backing up important data, this is really really important!
 1. Copy these two files: SystemAppearance.car and Assets.car from "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/" two somewhere you won't lose them
-Installing the theme
-1. Copy the files SystemAppearance.car Assets.car from this repo (you downloaded it earlier) to "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/" (replace the existing ones)
-2. now comes the annoying part, replacing the icons, in this repo there are all .icns files (.icns) that I was able to find,
+2. Copy the files SystemAppearance.car Assets.car from this repo (you downloaded it earlier) to "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/" (replace the existing ones)
+3. now comes the annoying part, replacing the icons, in this repo there are all .icns files (.icns) that I was able to find,
    open LiteIcon and drag the correct .icns from this repo to the coresponding one in LiteIcon, no worries, LiteIcon can reset them
    later easily.
  
