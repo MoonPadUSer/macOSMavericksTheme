@@ -12,13 +12,14 @@ A Theme for macOS Mojave/Catalina to make it look like macOS Mavericks
 7. If you downloaded cdock, download this theme: https://www.deviantart.com/jsteweii/art/Mavericks-783845879
 
 # Installation
-1. Copy these two files: SystemAppearance.car and Assets.car from "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/" two somewhere you won't lose them
-2. Copy the files SystemAppearance.car Assets.car from this repo (you downloaded it earlier) to "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/" (replace the existing ones)
+1. Go into System Preferences -> Accessibility -> Display -> Check "Reduce Transparency"
+2. Copy these two files: SystemAppearance.car and Assets.car from "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/" two somewhere you won't lose them
+3. Copy the files SystemAppearance.car Assets.car from this repo (you downloaded it earlier) to "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/" (replace the existing ones)
 4. open cdock and import the theme you downloaded and use it (just select it in the dropdown menu and then restart dock)
-3. now comes the annoying part, replacing the icons, in this repo there are all .icns files (.icns) that I was able to find,
+5. now comes the annoying part, replacing the icons, in this repo there are all .icns files (.icns) that I was able to find,
    open LiteIcon and drag the correct .icns from this repo to the coresponding one in LiteIcon, no worries, LiteIcon can reset them
    later easily.
  
-If there are any problems, don't hesitate to ask me
+If there are any problems, don't hesitate to contact me on Reddit: https://reddit.com/user/MoonPadUSer/
 
 
