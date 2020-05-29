@@ -2,7 +2,8 @@
 A Theme for macOS Mojave/Catalina to make it look like macOS Mavericks
 
 
-*Attention: If you are on macOS 10.15.3+, please note there has been a case reported where the entire finder was bricked afterwards so I EXTREMELY recommend a backup if you still plan to do this, and if problems arise where you can't revert to the backed up files afterwards, please contact me on reddit (u/MoonPadUSer) there are ways using the recovery mode to place those files back which should recover your machine to a working state*
+# ATTENTION - READ THIS FIRST
+*If you are on macOS 10.15.3+, please note there has been a case reported where the entire finder was bricked afterwards so I EXTREMELY recommend a backup if you still plan to do this, and if problems arise where you can't revert to the backed up files afterwards, please contact me on reddit (u/MoonPadUSer) there are ways using the recovery mode to place those files back which should recover your machine to a working state*
 
 # 
 # Preparation
