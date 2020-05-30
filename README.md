@@ -30,4 +30,4 @@ A Theme for macOS Mojave/Catalina to make it look like macOS Mavericks
  
 If there are any problems, don't hesitate to contact me on Reddit: https://reddit.com/user/MoonPadUSer/
 
-
+Also, if you want to edit this and make your own version, feel free to do so, no need to credit me anywhere, just have fun with it. JFYI I used ThemeEngine to edit the .car files (it is also available here on github)
