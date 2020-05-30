@@ -5,6 +5,10 @@ A Theme for macOS Mojave/Catalina to make it look like macOS Mavericks
 # ATTENTION - READ THIS FIRST
 *If you are on macOS 10.15.3+, please note there has been a case reported where the entire finder was bricked afterwards so I EXTREMELY recommend a backup if you still plan to do this, and if problems arise where you can't revert to the backed up files afterwards, please contact me on reddit (u/MoonPadUSer) there are ways using the recovery mode to place those files back which should recover your machine to a working state*
 
+# Known Issues
+- Spotlight is see-through (one some macOS versions)
+- Quicklook buttons have no text in them
+
 # 
 # Preparation
 1. Download this repo (green button -> download as zip)
